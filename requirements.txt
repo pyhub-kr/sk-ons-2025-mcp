@@ -1,0 +1,6 @@
+pywin32
+html2text
+click
+mcp[cli]
+typer
+rich
